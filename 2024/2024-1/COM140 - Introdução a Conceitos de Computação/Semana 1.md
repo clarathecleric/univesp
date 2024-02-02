@@ -26,9 +26,13 @@ Existem diversas maneiras de classificar os computadores já desenvolvidos, dent
 
 A tecnologia de processamento diz respeito a forma como os dados são manipulados pelo computador.
 
+<center>
+
 | Analógicos | Digitais | Híbridos |
 | --- | --- | --- |
 | - baseados em fenômenos físicos; <br> - valores contínuos ou aproximados; | - baseados em sistemas digitais; <br> - valores básicos 0 e 1 (binário); | - combinação do analógico e do digital; <br> - permite maior precisão; |
+</center>
+
 <br>
 
 **2. Porte**
@@ -41,11 +45,12 @@ O porte de um computador diz respeito a seu peso e tamanho, e consequentemente s
 
 Devido a sua praticidade e facilidade de transporte, os computadores **portáteis** se tornaram praticamente onipresentes.  O tamanho e peso reduzidos resultam em uma menor capacidade de processamento e armazenamento.
 
+<center>
 
 | Laptops | PDAs | Tablets/Smartphones | Smartwawtches |
 | --- | --- | --- | --- |
 | - semelhante ao desktop; <br> - recursos integrados; <br> - facilidade de transporte; | - *personal digital assistant*; <br> - poucas funcionalidades; <br> - uso complementar; <br> - substituídos por tablets e smartphones; | - acesso a redes sociais; <br> - telefonia; <br> - navegação na internet; <br> - entretenimento; | - acesso a aplicativos; <br> - controle de pagamentos; <br> - consulta de mapas; <br> - etc.;
-
+</center>
 
 Diferente de outros produtos, tanto o custo quanto o tamanho dos computadores têm decrescido dramaticamente.  
 <br>
@@ -61,4 +66,14 @@ A função diz respeito a natureza do uso do computador.
 
 ### Impacto Social
 
-Com a disseminação dos computadores em praticamente todas as áreas do cotidiano surge a necessidade de se abordar os impactos sociais consequentes.
+Com a disseminação dos computadores em praticamente todas as áreas do cotidiano surge a necessidade de se abordar os impactos sociais consequentes. Alguns exemplos incluem a influência da tecnologia no mercado de trabalho, a evolução de interações intrapessoais devido as redes sociais, questões éticas e impactos ambientais.
+
+O desenvolvimento constante de ferramentas automatizadas em todos os setores da economia resulta na alteração frequente da dinâmica de trabalho e papel do ser humano nela inserida. Enquanto posições são tornadas obsoletas, novas oportunidades e profissões são criadas, exigindo assim a capacitação de profissionais e mudanças nas formas de ensino.
+
+Com a ascensão das redes sociais, cria-se o conceito de vida virtual, uma vez que grande parte do tempo do indivíduo é socializando online. Questões advindas desse hábito incluem pontos negativos como o isolamento social no mundo real e dependência tecnológica, mas também pontos positivos como a facilidade de mobilização de indivíduos através da internet e facilidade de acesso a informações.
+
+A subárea de ética na computação nasce da necessidade de policiar e oferecer soluções aos problemas éticos provenientes da vasta influência da computação na realidade atual. Ela engloba várias situações, como: políticas para evitar prejudicar organizações ou outras pessoas; correta utilização de computadores no ambiente de estudo ou trabalho; eliminação ou redução da ocorrência de crimes por meio de computadores; direito ao anonimato e à privacidade das pessoas; e respeito à propriedade intelectual e à responsabilidade profissional.
+
+Por fim, temos o surgimento do movimento da Computação Verde, que busca combater o impacto ambiental causado pela produção, uso e descarte constante de diversos itens tecnológicos através do estudo e elaboração de práticas e políticas que tornam a computação mais sustentável.
+
+### Breve História da Computação
