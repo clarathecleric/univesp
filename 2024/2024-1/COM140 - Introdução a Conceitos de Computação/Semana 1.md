@@ -107,7 +107,7 @@ section Computadores de Grande Porte
 
 O desenvolvimento da tecnologia de válvulas nesta mesma época abriu as portas para os computadores completamente eletrônicos, rapidamente tornando esses computadores obsoletos.
 
-::: mermaid
+``` mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
 timeline
 section Computadores Eletrônicos Digitais
@@ -115,11 +115,11 @@ section Computadores Eletrônicos Digitais
     Colossus <br> 1943-1945 : Thomas Flowers : primeiro computador eletrônico digital completamente programável : usado para decifrar códigos do exército alemão na Segunda Guerra Mundial
     ENIAC <br> 1945 : Universidade da Pensilvânia : primeiro computador eletrônico digital de propósito geral : utilizado para realizar cálculos de balística na Segunda Guerra Mundial : 30 toneladas e 500 m² : programação realizada através da conexão e desconexão manual de 6.000 cabos
     EDVAC <br> 1951 : John Von Neumann : primeiro computador a usar programas armazenados em fitas magnéticas : uso de valores binários : três subsistemas <br> - unidade central de processamento <br> unidade de memória <br> dispositivos de entrada e saída
-:::
+```
 
 O avanço da microeletrônica e barateamento de componentes levou à ascensão dos microcomputadores, também chamados de computadores pessoais.
 
-::: mermaid
+``` mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
 timeline
 section Primeiros Computadores Pessoais
@@ -127,11 +127,11 @@ section Primeiros Computadores Pessoais
     Xerox Note Taker <br> 1976 : conceito elaborado em 1968 por Alan Kay : lançado pela Xerox em 1976
     Dynabook <br> 1972 desenvolvido por Alan Kay : primeiro tablet portátil : voltado ao público infantil
     Osborne 1 <br> 1981 : início da construção em massa de notebooks : peso de 10kg : tela de 5" : cerca de US$1.800
-:::
+```
 
 A tabela abaixo indica as principais diferenças entre as quatro últimas gerações de computadores.
 
-::: mermaid
+``` mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
 timeline
 section Gerações de Computadores
@@ -140,9 +140,9 @@ section Gerações de Computadores
     3ª Geração : circuitos integrados (SSI e MSI) : SSI (pequena escala) <br> menos de 10 elementos por chip : MSI (média escala) <br> 10 a 100 elementos por chip : operações em nanossegundos (10–9 segundos)
     4ª Geração : integração em escalas superiores (até ULSI) : ULSI (escala ultragrande) <br> mais de 100.000 elementos por chip : tecnologia de firmware (software armazenado em chip)
     5ª Geração : computação baseada em DNA : computadores neurais : computação quântica : ainda estão por vir
-:::
+```
 
-::: mermaid
+``` mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
 timeline
 section Computadores no Brasil
@@ -151,4 +151,4 @@ section Computadores no Brasil
     1974
     1980
     1991
-::: 
+```
