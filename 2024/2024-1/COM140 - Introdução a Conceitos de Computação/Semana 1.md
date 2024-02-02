@@ -77,3 +77,78 @@ A subárea de ética na computação nasce da necessidade de policiar e oferecer
 Por fim, temos o surgimento do movimento da Computação Verde, que busca combater o impacto ambiental causado pela produção, uso e descarte constante de diversos itens tecnológicos através do estudo e elaboração de práticas e políticas que tornam a computação mais sustentável.
 
 ### Breve História da Computação
+
+A primeira "máquina de calcular" de que se tem notícia é o **ábaco**, presente em diversas civilizações. Ele facilita a realização de operações aritméticas simples através do deslocamento manual de peças para a contagem, não podendo, então, ser considerado uma máquina automática.
+
+O século XVII dá início ao desenvolvimento de dispositivos de cálculo mais sofisticados tanto em sua construção quando na complexidade das operações resolvíveis.
+
+::: mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
+timeline 
+section Dispositivos Mecânicos
+    Calculadora de Schickard <br> 1623 : Wilhelm Schickard : primeira calculadora mecânica : quatro operações básicas
+    Pascaline <br> 1642 : Blaise Pascal : duas operações básicas (adição e subtração) : composta de engrenagens
+    Máquina de Diferenças Finitas I <br> 1821 : Charles Babbage : apenas adição : tamanho gigante : não concluída
+    Máquina Analítica <br> 1834 : Charles Babbage : uso de cartões perfurados para executar as operações : permitia a criação de programas de computador
+    Máquina de Diferenças Finitas II <br> 1847 : Charles Babbage : três vezes menos peças que a primeira tentativa : não concluída
+:::
+
+Em 1842, Ada Lovelace, matemática e escritora britânica, publicou um artigo demonstrando as capacidades de automatização de tarefas pela máquina analítica, rendendo-lhe o título de primeira programadora de computadores.
+
+::: mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
+timeline
+section Computadores de Grande Porte
+    Máquina de Predição de Ondas <br> 1872 : Sir William Thomson : usado para prever a altura das marés : composto por pesos e polias
+    Máquina de Hollerith <br> 1890 : Herman Hollerith : processava cartões perfurados : reduziu o tempo da contagem do senso americano : percursora da IBM
+    Z 1 <br> 1936-1938 : Konrad Zuse : primeiro computador eletromecânico operacional : primeiro computador programável : uso de lógica booleana e aritmética de ponto flutuante
+    Mark 1 <br> 1944 : Howard Aiken e engenheiros da IBM : uso de relés mecânicos : ocupava uma sala inteira : três operações de adição ou subtração por segundo
+:::
+
+O desenvolvimento da tecnologia de válvulas nesta mesma época abriu as portas para os computadores completamente eletrônicos, rapidamente tornando esses computadores obsoletos.
+
+::: mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
+timeline
+section Computadores Eletrônicos Digitais
+    Atanasoff-Berry (ABC) <br> 1937-1942 : John Atasanoff e Clifford Berry : primeiro computador eletrônico digital : não programável : desenvolvido para resolver sistemas complexos de equações lineares
+    Colossus <br> 1943-1945 : Thomas Flowers : primeiro computador eletrônico digital completamente programável : usado para decifrar códigos do exército alemão na Segunda Guerra Mundial
+    ENIAC <br> 1945 : Universidade da Pensilvânia : primeiro computador eletrônico digital de propósito geral : utilizado para realizar cálculos de balística na Segunda Guerra Mundial : 30 toneladas e 500 m² : programação realizada através da conexão e desconexão manual de 6.000 cabos
+    EDVAC <br> 1951 : John Von Neumann : primeiro computador a usar programas armazenados em fitas magnéticas : uso de valores binários : três subsistemas <br> - unidade central de processamento <br> unidade de memória <br> dispositivos de entrada e saída
+:::
+
+O avanço da microeletrônica e barateamento de componentes levou à ascensão dos microcomputadores, também chamados de computadores pessoais.
+
+::: mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
+timeline
+section Primeiros Computadores Pessoais
+    Altair 8800 <br> 1975 : lançado na revista *Popular Electronics* : microprocessador 8080 da Intel
+    Xerox Note Taker <br> 1976 : conceito elaborado em 1968 por Alan Kay : lançado pela Xerox em 1976
+    Dynabook <br> 1972 desenvolvido por Alan Kay : primeiro tablet portátil : voltado ao público infantil
+    Osborne 1 <br> 1981 : início da construção em massa de notebooks : peso de 10kg : tela de 5" : cerca de US$1.800
+:::
+
+A tabela abaixo indica as principais diferenças entre as quatro últimas gerações de computadores.
+
+::: mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
+timeline
+section Gerações de Computadores
+    1ª Geração : válvulas : operações internas em milissegundos (10-3 segundos)
+    2ª Geração : transistores : computadores menores, mais rápidos, mais baratos e mais confiáveis : operações em microssegundos (10-6 segundos)
+    3ª Geração : circuitos integrados (SSI e MSI) : SSI (pequena escala) <br> menos de 10 elementos por chip : MSI (média escala) <br> 10 a 100 elementos por chip : operações em nanossegundos (10–9 segundos)
+    4ª Geração : integração em escalas superiores (até ULSI) : ULSI (escala ultragrande) <br> mais de 100.000 elementos por chip : tecnologia de firmware (software armazenado em chip)
+    5ª Geração : computação baseada em DNA : computadores neurais : computação quântica : ainda estão por vir
+:::
+
+::: mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
+timeline
+section Computadores no Brasil
+    1957
+    1972
+    1974
+    1980
+    1991
+::: 
