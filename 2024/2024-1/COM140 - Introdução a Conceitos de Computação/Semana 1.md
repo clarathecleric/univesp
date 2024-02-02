@@ -82,7 +82,7 @@ A primeira "máquina de calcular" de que se tem notícia é o **ábaco**, presen
 
 O século XVII dá início ao desenvolvimento de dispositivos de cálculo mais sofisticados tanto em sua construção quando na complexidade das operações resolvíveis.
 
-::: mermaid
+``` mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
 timeline 
 section Dispositivos Mecânicos
@@ -91,11 +91,11 @@ section Dispositivos Mecânicos
     Máquina de Diferenças Finitas I <br> 1821 : Charles Babbage : apenas adição : tamanho gigante : não concluída
     Máquina Analítica <br> 1834 : Charles Babbage : uso de cartões perfurados para executar as operações : permitia a criação de programas de computador
     Máquina de Diferenças Finitas II <br> 1847 : Charles Babbage : três vezes menos peças que a primeira tentativa : não concluída
-:::
+```
 
 Em 1842, Ada Lovelace, matemática e escritora britânica, publicou um artigo demonstrando as capacidades de automatização de tarefas pela máquina analítica, rendendo-lhe o título de primeira programadora de computadores.
 
-::: mermaid
+``` mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'neutral' } }%%
 timeline
 section Computadores de Grande Porte
@@ -103,7 +103,7 @@ section Computadores de Grande Porte
     Máquina de Hollerith <br> 1890 : Herman Hollerith : processava cartões perfurados : reduziu o tempo da contagem do senso americano : percursora da IBM
     Z 1 <br> 1936-1938 : Konrad Zuse : primeiro computador eletromecânico operacional : primeiro computador programável : uso de lógica booleana e aritmética de ponto flutuante
     Mark 1 <br> 1944 : Howard Aiken e engenheiros da IBM : uso de relés mecânicos : ocupava uma sala inteira : três operações de adição ou subtração por segundo
-:::
+```
 
 O desenvolvimento da tecnologia de válvulas nesta mesma época abriu as portas para os computadores completamente eletrônicos, rapidamente tornando esses computadores obsoletos.
 
