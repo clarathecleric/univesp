@@ -40,3 +40,61 @@ Podemos encontrar alguns conceitos pertinentes aos algoritmos no exemplo abaixo:
 **Teste Seletivo**: determina qual conjunto de ações deve ser executado com base no resultado de **verdadeiro** ou **falso** de uma condição;
 
 **Repetição**: o mesmo conjunto de ações se repete até que a condição de parada seja alcançada;
+
+### Fluxogramas
+
+Um **fluxograma** é uma representação esquemática de um  algoritmo através de gráficos que ilustram a transição de informações entre os elementos que o compõem.
+
+<center>
+
+``` mermaid 
+flowchart TD
+ id1([INÍCIO OU FIM DE UM FLUXOGRAMA])
+```
+
+``` mermaid
+flowchart TD
+id1[/ENTRADA OU SAÍDA DE DADOS/]
+```
+``` mermaid
+flowchart TD
+id[INSTRUÇÃO]
+```
+
+``` mermaid
+flowchart TD
+id1{PONTO DE DECISÃO}
+```
+
+``` mermaid
+flowchart LR
+A =====> B
+```
+**FLUXO DE DADOS E CONEXÃO**
+
+</center>
+<br>
+
+Usando o exemplo citado anteriormente, temos o seguinte fluxograma:
+
+<center>
+
+``` mermaid
+flowchart TD
+A([INÍCIO]) ==> B[Acione o interruptor] ==>
+C{A lâmpada acende?} =======>|Sim| D([FIM])
+C ==>|Não| E[Posicione a escada embaixo da lâmpada] ==>
+F[Suba na escada até que a lâmpada possa ser alcançada] ==>
+G{A lâmpada acendeu?} ==>|Sim| H[Desça da escada]
+G ==>|Não| I[Gire a lâmpada queimada no sentido anti-horário até que se solte ] ==>
+J[Escolha uma lâmpada da mesma potência da queimada] ==>
+K[Posicione a nova lâmpada no soquete] ==>
+L[Gire a lâmpada no sentido horário até que ela se firme] ==> G
+H ==> D
+```
+
+</center>
+
+### Sobre Python
+
+A linguagem **Python** foi desenvolvida no final da década de 80 por Guido van Rossum, projetada para a construção de programas de alta legibilidade. Sua vasta biblioteca permite a criação de aplicações sofisticadas de aparência relativamente simples, culminando na sua grande popularidade entre os programadores.
