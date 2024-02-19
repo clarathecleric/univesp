@@ -103,3 +103,38 @@ Palavras reservadas **não podem** ser usadas como nomes variáveis.
 **float**: números com casas decimais;  
 **bool**: true ou false;  
 **string (str)**: texto ou sequência de caracteres;
+
+### Strings
+
+**Strings** são um tipo de variável usando para representar ou manipular texto ou uma sequência de caracteres. Ela é composta por uma sequência de caracteres envolvida por aspas (simples ou duplas).
+
+Alguns operadores importantes são:  
+**len()**: indica o tamanho da string;  
+**[]**: operador de indexação  
+&nbsp;&nbsp;&nbsp; - o índice varia de 0 a len()-1;  
+&nbsp;&nbsp;&nbsp; - índices negativos iniciam a contagem do lado direito da string;  
+&nbsp;&nbsp;&nbsp; - é possível acessar **substrings** através da indexação (s [ x : y ]);
+
+```
+>>> s = 'abcd'
+>>> s[0:2]
+'ab'
+>>> s[-4:-2]
+'ab'
+>>> s[:3]
+'abc'
+>>> s[-1:]
+'d'
+```
+
+<br>
+
+**Métodos**  
+**s.find(p)**: retorna o índice em que a substring p aparece em s  
+**s.count(p)**: retorna a frequência em que a substring p aparece
+em s  
+**s.replace(p, q)**: substitui a substring p pela substring q em s  
+**s.capitalize()**: substitui primeiro caractere de s em maiúscula  
+**s.upper()**: substitui todos os caracteres de s em maiúscula  
+**s.lower()**: substitui todos os caracteres de s em minúscula  
+**s.strip()**: remove espaços em branco em excesso
