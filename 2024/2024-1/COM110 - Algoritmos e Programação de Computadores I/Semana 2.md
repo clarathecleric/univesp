@@ -106,7 +106,7 @@ Palavras reservadas **não podem** ser usadas como nomes variáveis.
 
 ### Strings
 
-**Strings** são um tipo de variável usando para representar ou manipular texto ou uma sequência de caracteres. Ela é composta por uma sequência de caracteres envolvida por aspas (simples ou duplas).
+**Strings** são um tipo de variável **imutável** usando para representar ou manipular texto ou uma sequência de caracteres. Ela é composta por uma sequência de caracteres envolvida por aspas (simples ou duplas).
 
 Alguns operadores importantes são:  
 **len()**: indica o tamanho da string;  
@@ -129,7 +129,7 @@ Alguns operadores importantes são:
 
 <br>
 
-**Métodos**  
+**Métodos (strings)**  
 **s.find(p)**: retorna o índice em que a substring p aparece em s  
 **s.count(p)**: retorna a frequência em que a substring p aparece
 em s  
