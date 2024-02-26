@@ -28,11 +28,27 @@
 
 ### Tipos de dados
 
-Os dados suportados pela linguagem Python são armazenados na memória na forma de objetos. Cada objeto possui um tipo e um valor.
+Os dados suportados pela linguagem Python são armazenados na memória na forma de **objetos**. Cada objeto possui um **tipo** e um **valor**. 
+
+O **tipo** de um objeto indica quais valores ele pode armazenar e quais operações podem ser executadas. Ele pode ser verificado através da função *type()*.
+- o tipo *int* comporta grandes valores com base na disponibilidade de memória;
+- o tipo *float* atualmente comporta valores de até 64 bits, que podem ser aproximados;
+
+Podemos usar **construtores** (int(), float(), str() e list()) para explicitamente definir objetos de um determinado tipo. Seus valores padrão são, respectivamente: 0, 0.0, '' e []. Construtores são tipicamente utilizados para a **conversão** de tipos.
+
+**Conversões Implícitas**
+
+Dá-se o nome de **conversão implícita** àquela que ocorre quando há uma expressão com operandos de diferentes tipos que são automaticamente convertidos pela linguagem Python. 
+
+**Conversões Explícitas**
+
+Já a **conversão explícita** ocorre quando é necessário definir "manualmente" a conversão através dos construtores.
+
+<br>
 
 ### Biblioteca Padrão Python
 
-A biblioteca padrão Python é uma coleção de mais de 200 módulos compostos por funções e classes específicos para um domínio de aplicação.
+A biblioteca padrão Python é uma coleção de mais de 200 módulos compostos por funções e classes específicos para um domínio de aplicação.  
 
 Aplicações que contam com módulos predefinidos incluem:
 - programação para redes de computadores;
@@ -69,6 +85,10 @@ O módulo **fractions** torna possível o uso de frações e a realização de n
 >>> b = fractions.Fraction(3,4)
 >>> a + b
 ```
+$$
+\frac{1}{2} + \frac{3}{4} = \frac{5}{4}
+$$
+
 <br>
 
-S
+Enquanto o uso das frações permite a representação de números muito maiores que o tipo float, seu uso torna o processo mais lento.
