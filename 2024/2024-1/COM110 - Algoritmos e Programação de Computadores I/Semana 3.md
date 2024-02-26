@@ -4,11 +4,11 @@
 
 **Listas** são sequências **mutáveis** de objetos separados por vírgulas e envoltos por colchetes.
 
-```
->>> pets = ['cão', 'gato', 'peixe']
->>> pets
-['cão', 'gato', 'peixe']
-```
+
+\>>> pets = ['cão', 'gato', 'peixe']  
+\>>> pets  
+\['cão', 'gato', 'peixe']
+
 
 **Operadores suportados**: [] (index), in, not in, +, *, len(), min(), max(), sum()
 

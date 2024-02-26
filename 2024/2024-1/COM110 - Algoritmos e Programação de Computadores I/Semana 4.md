@@ -20,7 +20,7 @@ Um programa em Python é um conjunto de instruções que são executadas em orde
 
 <Br>
 
-[Exemplo: Conversão de Temperatura](Code/example1.py)
+[Exemplo: Conversão de Temperatura](Code/s4-ex1.py)
 
 *C = input('Digite a temperatura em Celsius:')  
 F = 1.8 * eval(C) + 32  
