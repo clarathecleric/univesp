@@ -68,14 +68,14 @@ A precedência das operações segue a ordem abaixo:
 
 **Variável** é o nome a qual é atribuído (=) um objeto. Isso permite que a informação representada pela variável seja recuperada em diversas partes do código.
 
-```
->>> x = 3 + 3
->>> 2 * x
-12
->>> y = x -2
->>> y
+
+\>>> x = 3 + 3  
+\>>> 2 * x  
+12  
+\>>> y = x -2  
+\>>> y  
 4
-```
+
 
 Os nomes de variáveis podem conter apenas:
 - caracteres maiúsculos (A-Z);
@@ -115,17 +115,16 @@ Alguns operadores importantes são:
 &nbsp;&nbsp;&nbsp; - índices negativos iniciam a contagem do lado direito da string;  
 &nbsp;&nbsp;&nbsp; - é possível acessar **substrings** através da indexação (s [ x : y ]);
 
-```
->>> s = 'abcd'
->>> s[0:2]
-'ab'
->>> s[-4:-2]
-'ab'
->>> s[:3]
-'abc'
->>> s[-1:]
+
+\>>> s = 'abcd'  
+\>>> s[0:2]  
+'ab'  
+\>>> s[-4:-2]  
+'ab'  
+\>>> s[:3]  
+'abc'  
+\>>> s[-1:]  
 'd'
-```
 
 <br>
 

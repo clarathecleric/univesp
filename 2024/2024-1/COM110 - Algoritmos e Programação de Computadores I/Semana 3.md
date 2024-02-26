@@ -79,12 +79,12 @@ O módulo **math** é uma biblioteca de constantes e funções matemáticas. Par
 
 O módulo **fractions** torna possível o uso de frações e a realização de números racionais. 
 
-```
->>> import fractions
->>> a = fractions.Fraction(1,2)
->>> b = fractions.Fraction(3,4)
->>> a + b
-```
+\>>> import fractions  
+\>>> a = fractions.Fraction(1,2)  
+\>>> b = fractions.Fraction(3,4)   
+\>>> a + b
+
+
 $$
 \frac{1}{2} + \frac{3}{4} = \frac{5}{4}
 $$
