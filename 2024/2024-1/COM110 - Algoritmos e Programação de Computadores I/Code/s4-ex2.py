@@ -1,4 +1,5 @@
 def media(n1,n2):
+    'Calcula a média simples a partir de duas notas'  
     m = (n1+n2)/2
     return m
 
