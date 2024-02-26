@@ -1,4 +1,4 @@
-## Tipos de dados (parte 2)
+## 3. Tipos de dados (parte 2)
 
 ### Listas, tuplas e operadores
 
