@@ -205,4 +205,3 @@ Existem duas alternativas para a codificação binária de valores inteiros nega
 | 0111 | 7 | 1111 | -1 |
 
 <br>
-
