@@ -13,6 +13,8 @@
 
 **COM130  - Fundamentos de Internet e Web**
 - [Semana 1](<2024/2024-2/COM130  - Fundamentos de Internet e Web/Semana 1.md>)
+- [Semana 2](<2024/2024-2/COM130  - Fundamentos de Internet e Web/Semana 2.md>)
+- [Semana 3](<2024/2024-2/COM130  - Fundamentos de Internet e Web/Semana 3.md>)
 
 <br>
 
