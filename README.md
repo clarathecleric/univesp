@@ -10,6 +10,7 @@
 - [Semana 1](<2024/2024-2/COM120 - Algoritmos e Programação de Computadores  II/Semana 1.md>)
 - [Semana 2](<2024/2024-2/COM120 - Algoritmos e Programação de Computadores  II/Semana 2.md>)
 - [Semana 3](<2024/2024-2/COM120 - Algoritmos e Programação de Computadores  II/Semana 3.md>)
+- [Semana 4](<2024/2024-2/COM120 - Algoritmos e Programação de Computadores  II/Semana 4.md>)
 
 <br>
 
