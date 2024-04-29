@@ -4,7 +4,7 @@
 
 ### 2024
 
-#### 3º Bimestre
+#### 4º Bimestre
 
 **COM120 - Algoritmos e Programação de Computadores  II**
 - [Semana 1](<2024/2024-2/COM120 - Algoritmos e Programação de Computadores  II/Semana 1.md>)
