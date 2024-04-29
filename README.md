@@ -22,8 +22,7 @@
 
 **COM150 - Fundamentos Matemáticos para Computação**
 
-<center> ELE COMEU O CONTEÚDO
-<center> v
+ELE COMEU O CONTEÚDO
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠊⣁⣤⣈⡉⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
